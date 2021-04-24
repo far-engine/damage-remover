@@ -8,7 +8,9 @@ Output - same image, with cracks removed.
 ## Progress and Updates
 
 **3/31/2021** - Initial data transform pipeline added
+
 **4/23/2021** - U-Net implemented
+
 **4/24/2021** - Dataset expanded, images resized 
 
 ## dataset 
